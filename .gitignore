@@ -19,3 +19,6 @@ Thumbs.db
 # OS / temp
 *.tmp
 *.log
+
+# Microsoft Office lock / temp files
+~$*
