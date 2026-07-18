@@ -1,0 +1,19 @@
+SWE4303 Week 8 OS Inspection Evidence
+User: mihalykrich
+Working directory: /Users/mihalykrich/swe4303/week8
+Date: Fri 17 Jul 2026 17:19:54 BST
+System information:
+Darwin MacBook-Pro.local 25.5.0 Darwin Kernel Version 25.5.0: Tue Jun  9 22:28:17 PDT 2026; root:xnu-12377.121.10~1/RELEASE_ARM64_T8142 arm64
+Bash version:
+GNU bash, version 3.2.57(1)-release (arm64-apple-darwin25)
+Process sample:
+  UID   PID  PPID   C STIME   TTY           TIME CMD
+    0     1     0   0 Tue01a.m. ??         7:51.42 /sbin/launchd
+    0   521     1   0 Tue01a.m. ??         2:07.97 /usr/libexec/logd
+    0   523     1   0 Tue01a.m. ??         0:13.31 /usr/libexec/UserEventAgent (System)
+    0   525     1   0 Tue01a.m. ??         3:19.83 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+    0   526     1   0 Tue01a.m. ??         0:02.11 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+    0   529     1   0 Tue01a.m. ??         0:06.53 /usr/sbin/systemstats --daemon
+    0   533     1   0 Tue01a.m. ??         0:54.94 /usr/libexec/configd
+    0   535     1   0 Tue01a.m. ??         0:36.18 /System/Library/CoreServices/powerd.bundle/powerd
+    0   536     1   0 Tue01a.m. ??         0:00.02 /usr/libexec/IOMFB_bics_daemon
