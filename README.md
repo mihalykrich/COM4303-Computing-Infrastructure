@@ -43,11 +43,12 @@ Evidence for **Assignment 2**, organised by week as further materials are added.
 
 | Folder | Contents |
 |--------|----------|
-| `Week 8/` | OS inspection lab write-up, process/service evidence text file, and screenshots |
+| `Week 8/Week 8 - Consolidate Quiz/` | Consolidate quiz screenshot |
+| `Week 8/Week 8 - Session 1 - Lab/` | OS inspection lab write-up, process/service evidence text file, and screenshots |
 
 ### Week coverage (Assignment 2)
 
-- **Week 8** — OS Inspection Lab (process–service evidence and interpretation), supporting screenshots, and `week8_os_evidence.txt`
+- **Week 8** — Consolidate quiz screenshot; OS Inspection Lab (process–service evidence and interpretation), supporting screenshots, and `week8_os_evidence.txt`
 
 ---
 
