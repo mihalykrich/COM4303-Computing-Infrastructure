@@ -39,16 +39,19 @@ Evidence for **Assessment 001** (Enterprise Infrastructure Design and Proof of C
 
 **Folder:** `Assignement 2 Supporting Evidence/`
 
-Evidence for **Assignment 2**, organised by week as further materials are added.
+Evidence for **Assignment 2**, organised by week with consolidate quizzes and session labs.
 
 | Folder | Contents |
 |--------|----------|
 | `Week 8/Week 8 - Consolidate Quiz/` | Consolidate quiz screenshot |
 | `Week 8/Week 8 - Session 1 - Lab/` | OS inspection lab write-up, process/service evidence text file, and screenshots |
+| `Week 9/Week 9 - Consolidate Quiz/` | Consolidate quiz folder (screenshots as available) |
+| `Week 9/Week 9 - Session 2 - Lab/` | Scripting Lab I write-up and supporting screenshots |
 
 ### Week coverage (Assignment 2)
 
 - **Week 8** — Consolidate quiz screenshot; OS Inspection Lab (process–service evidence and interpretation), supporting screenshots, and `week8_os_evidence.txt`
+- **Week 9** — Scripting Lab I (controlled automation tasks with documented output), write-up, and supporting screenshots
 
 ---
 
