@@ -1,0 +1,28 @@
+------------------------------
+System Snapshot
+------------------------------
+------------------------------
+Current user
+------------------------------
+mihalykrich
+------------------------------
+Current directory
+------------------------------
+/Users/mihalykrich/swe4303/week9
+------------------------------
+Date and time
+------------------------------
+Fri 24 Jul 2026 16:04:29 BST
+------------------------------
+Evidence directory check
+------------------------------
+Evidence directory found.
+------------------------------
+Repeated samples
+------------------------------
+Sample 1 captured
+Fri 24 Jul 2026 16:04:29 BST
+Sample 2 captured
+Fri 24 Jul 2026 16:04:29 BST
+Sample 3 captured
+Fri 24 Jul 2026 16:04:29 BST
