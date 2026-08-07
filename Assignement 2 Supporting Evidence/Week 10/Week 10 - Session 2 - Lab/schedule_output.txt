@@ -1,0 +1,18 @@
+Week 10 Reliability Check
+Target working folder: week10_evidence
+Target log file: week10_evidence/automation_log.txt
+Working folder check
+Working folder found.
+Repeated reliability samples
+Run 1 checked
+Run 2 checked
+Run 3 checked
+Week 10 Reliability Check
+Target working folder: week10_evidence
+Target log file: week10_evidence/automation_log.txt
+Working folder check
+Working folder found.
+Repeated reliability samples
+Run 1 checked
+Run 2 checked
+Run 3 checked
