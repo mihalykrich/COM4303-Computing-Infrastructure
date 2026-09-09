@@ -39,7 +39,7 @@ Evidence for **Assessment 001** (Enterprise Infrastructure Design and Proof of C
 
 **Folder:** `Assignement 2 Supporting Evidence/`
 
-Evidence for **Assignment 2** (APEX Property Services), organised by weekly labs plus VLSM addressing and Packet Tracer design work.
+Evidence for **Assignment 2** (APEX Property Services), organised by weekly labs plus VLSM addressing, Packet Tracer design, and monitoring script work.
 
 | Folder | Contents |
 |--------|----------|
@@ -49,7 +49,8 @@ Evidence for **Assignment 2** (APEX Property Services), organised by weekly labs
 | `Week 9/Week 9 - Session 2 - Lab/` | Scripting Lab I write-up, script, snapshot output, and supporting screenshots |
 | `Week 10/Week 10 - Session 2 - Lab/` | Scripting Lab II write-up, automation scripts/logs, and supporting screenshots |
 | `VLSM Subnet Calculation/` | VLSM allocation screenshot for `10.67.0.0/16` |
-| `Cisco Packet Tracer (APEX Property Services Design)/` | Assignment Packet Tracer topology (APEX Property Services) |
+| `Cisco Packet Tracer (APEX Property Services Design)/` | Assignment Packet Tracer topology (`apex_property_services.pkt`) |
+| `Bash Script/` | Automated server/service monitor (`apex_property_monitor.sh`) |
 
 ### Week coverage (Assignment 2)
 
@@ -71,6 +72,24 @@ Base network **`10.67.0.0/16`**, allocated largest-first for host requirements *
 Interactive calculator (same allocation):
 
 https://subnetcalculator.dev/vlsm/?vlsm=10.67.0.0%2F16%3A35%2C21%2C19%2C14
+
+### Packet Tracer topology
+
+**File:** `Cisco Packet Tracer (APEX Property Services Design)/apex_property_services.pkt`
+
+APEX Property Services proof-of-concept topology for Assignment 2.
+
+### Bash monitoring script
+
+**File:** `Bash Script/apex_property_monitor.sh`
+
+Repeatable monitoring script for the APEX design. It writes timestamped results to `~/ops_67/opslog_0.txt` and runs **10** check cycles (2 seconds apart). Each cycle:
+
+1. Resolves `www.apexproperty.local` with `dscacheutil`
+2. Pings the Web/DNS host `10.67.0.131`
+3. Pings the FTP host `10.67.0.132`
+
+Those addresses sit in the **Server / Services** VLSM subnet (`10.67.0.128/28`).
 
 ---
 
