@@ -48,6 +48,9 @@ Evidence for **Assignment 2** (APEX Property Services), organised by weekly labs
 | `Week 9/Week 9 - Consolidate Quiz/` | Consolidate quiz screenshot |
 | `Week 9/Week 9 - Session 2 - Lab/` | Scripting Lab I write-up, script, snapshot output, and supporting screenshots |
 | `Week 10/Week 10 - Session 2 - Lab/` | Scripting Lab II write-up, automation scripts/logs, and supporting screenshots |
+| `Week 11/Week 11 - Consolidate Quiz/` | Consolidate quiz screenshot |
+| `Week 12/Week 12 - Consolidate Quiz/` | Consolidate quiz screenshot |
+| `Week 14/Week 14 - Session 2 - Lab/` | Client/Server Consolidation Lab write-up (test suite, evidence pack, and demonstration readiness) |
 | `VLSM Subnet Calculation/` | VLSM allocation screenshot for `10.67.0.0/16` |
 | `Cisco Packet Tracer (APEX Property Services Design)/` | Assignment Packet Tracer topology (`apex_property_services.pkt`) |
 | `Bash Script/` | Automated server/service monitor (`apex_property_monitor.sh`) |
@@ -57,6 +60,9 @@ Evidence for **Assignment 2** (APEX Property Services), organised by weekly labs
 - **Week 8** — Consolidate quiz screenshot; OS Inspection Lab (process–service evidence and interpretation), supporting screenshots, and `week8_os_evidence.txt`
 - **Week 9** — Consolidate quiz screenshot; Scripting Lab I (controlled automation tasks with documented output), write-up, and supporting screenshots
 - **Week 10** — Scripting Lab II (automated task with logging and repeatable execution), write-up, scripts/logs, and supporting screenshots
+- **Week 11** — Consolidate quiz screenshot
+- **Week 12** — Consolidate quiz screenshot
+- **Week 14** — Client/Server Consolidation Lab (test suite execution, evidence pack, and demonstration readiness write-up)
 
 ### VLSM subnet calculation
 
